@@ -4,4 +4,4 @@ A little web app that shows your speed using your GPS. Max your brightness, put 
 Only works effectively under low-light conditions.
 
 
-Update: This was a fun thing to play with, but my phone overheated and needed to spend some time in the fridge.
+Update: This was a fun thing to play with, but my phone overheated and needed to spend some time in the fridge. Also it is better to use this on a second device.
